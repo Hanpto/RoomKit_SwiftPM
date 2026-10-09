@@ -16,8 +16,12 @@ private class RoomBundleToken {}
 @objc public class ResourceLoader: NSObject {
     
     // MARK: - Properties
-    @objc public static let bundle: Bundle = {        
+    @objc public static let bundle: Bundle = {
+#if SWIFT_PACKAGE
+        return Bundle.module
+#else
         BundleLoader.moduleBundle(named: "TUIRoomKitBundle", moduleName: "TUIRoomKit", for: RoomBundleToken.self) ?? Bundle.main
+#endif
     }()
     
     // MARK: - Image Loading
