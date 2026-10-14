@@ -1,0 +1,42 @@
+"roomkit.home.login_signup" = "登录 / 注册";
+"roomkit.home.quick_meeting" = "快速会议";
+"roomkit.home.join_meeting" = "加入会议";
+"roomkit.home.schedule_meeting" = "预约会议";
+"roomkit.home.agenda" = "日程";
+"roomkit.home.agenda_empty" = "暂无近期会议";
+"roomkit.home.agenda_login_to_view" = "登录后查看";
+"roomkit.common.cancel" = "取消";
+"roomkit.pre.mic_on" = "开启麦克风";
+"roomkit.pre.speaker_on" = "开启扬声器";
+"roomkit.pre.camera_on" = "开启视频";
+"roomkit.quick_start.nav_title" = "新建会议";
+"roomkit.quick_start.meeting_name" = "会议名称";
+"roomkit.quick_start.title_placeholder" = "%@的快速会议";
+"roomkit.quick_start.create_failed" = "创建会议失败：%@";
+"roomkit.join.nav_title" = "加入会议";
+"roomkit.join.room_id" = "会议号码";
+"roomkit.join.room_id_placeholder" = "输入会议号码";
+"roomkit.join.invalid_room_id" = "请输入会议号码";
+"roomkit.join.join_failed" = "加入会议失败：%@";
+
+/* Main 会议中 */
+"roomkit.main.entering" = "正在加入会议";
+"roomkit.main.leave" = "离开";
+"roomkit.main.leave_end" = "结束会议";
+"roomkit.main.leave_end_hint" = "所有人将退出";
+"roomkit.main.leave_self" = "离开会议";
+"roomkit.main.leave_self_hint" = "仅自己退出";
+"roomkit.main.feature_coming" = "功能建设中，敬请期待";
+
+/* RoomView 会中画面 */
+"roomkit.room_view.me" = "我";
+"roomkit.room_view.owner" = "主持人";
+"roomkit.room_view.admin" = "管理员";
+"roomkit.room_view.mic_on_hint" = "麦克风已开启";
+"roomkit.room_view.mic_off_hint" = "麦克风已关闭";
+"roomkit.room_view.sharing_screen" = "正在屏幕共享";
+"roomkit.room_view.waiting_screen" = "等待屏幕分享";
+"roomkit.room_view.waiting_participants" = "等待参会者加入";
+"roomkit.room_view.page_number" = "%ld / %ld";
+"roomkit.room_view.prev_page" = "上一页";
+"roomkit.room_view.next_page" = "下一页";

@@ -1,0 +1,42 @@
+"roomkit.home.login_signup" = "Log in / Sign up";
+"roomkit.home.quick_meeting" = "Quick meeting";
+"roomkit.home.join_meeting" = "Join meeting";
+"roomkit.home.schedule_meeting" = "Schedule meeting";
+"roomkit.home.agenda" = "Schedule";
+"roomkit.home.agenda_empty" = "No upcoming meetings";
+"roomkit.home.agenda_login_to_view" = "Sign in to view";
+"roomkit.common.cancel" = "Cancel";
+"roomkit.pre.mic_on" = "Microphone on";
+"roomkit.pre.speaker_on" = "Speaker on";
+"roomkit.pre.camera_on" = "Video on";
+"roomkit.quick_start.nav_title" = "New meeting";
+"roomkit.quick_start.meeting_name" = "Meeting name";
+"roomkit.quick_start.title_placeholder" = "%@'s quick meeting";
+"roomkit.quick_start.create_failed" = "Failed to create meeting: %@";
+"roomkit.join.nav_title" = "Join meeting";
+"roomkit.join.room_id" = "Meeting ID";
+"roomkit.join.room_id_placeholder" = "Enter meeting ID";
+"roomkit.join.invalid_room_id" = "Please enter a meeting ID";
+"roomkit.join.join_failed" = "Failed to join meeting: %@";
+
+/* Main In-meeting */
+"roomkit.main.entering" = "Joining the meeting";
+"roomkit.main.leave" = "Leave";
+"roomkit.main.leave_end" = "End Meeting";
+"roomkit.main.leave_end_hint" = "Everyone will leave";
+"roomkit.main.leave_self" = "Leave Meeting";
+"roomkit.main.leave_self_hint" = "Only you will leave";
+"roomkit.main.feature_coming" = "Coming soon";
+
+/* RoomView In-meeting video */
+"roomkit.room_view.me" = "Me";
+"roomkit.room_view.owner" = "Host";
+"roomkit.room_view.admin" = "Admin";
+"roomkit.room_view.mic_on_hint" = "Microphone is on";
+"roomkit.room_view.mic_off_hint" = "Microphone is off";
+"roomkit.room_view.sharing_screen" = "Sharing screen";
+"roomkit.room_view.waiting_screen" = "Waiting for screen sharing";
+"roomkit.room_view.waiting_participants" = "Waiting for participants";
+"roomkit.room_view.page_number" = "%ld / %ld";
+"roomkit.room_view.prev_page" = "Previous page";
+"roomkit.room_view.next_page" = "Next page";
